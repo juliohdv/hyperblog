@@ -6,3 +6,5 @@ Hoy hablamos de su historia.
 Originario de Chalatenango
 
 Estudia ingenieria informatica
+
+Estudia JS FS en Platzi
